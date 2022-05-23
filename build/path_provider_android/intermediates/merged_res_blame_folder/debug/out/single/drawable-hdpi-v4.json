@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

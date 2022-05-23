@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

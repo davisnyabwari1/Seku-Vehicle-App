@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810114632697",
+    "project_id": "seku-vehicle-tracking-project",
+    "storage_bucket": "seku-vehicle-tracking-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810114632697:android:0a5ae30df61a34f93ecb28",
+        "android_client_info": {
+          "package_name": "com.sekuroadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810114632697-18q1gg5mc4c9qfne5o6m1m5g5aot1m11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhBDx9A8CafmiLeQkCmwBJ0p9z_6UXOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810114632697-18q1gg5mc4c9qfne5o6m1m5g5aot1m11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

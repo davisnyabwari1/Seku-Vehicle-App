@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/a65dccf7f5862f9d2dba2134e74ee4e3/transformed/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/a65dccf7f5862f9d2dba2134e74ee4e3/transformed/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/a65dccf7f5862f9d2dba2134e74ee4e3/transformed/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/a65dccf7f5862f9d2dba2134e74ee4e3/transformed/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/a65dccf7f5862f9d2dba2134e74ee4e3/transformed/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/a65dccf7f5862f9d2dba2134e74ee4e3/transformed/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/don-technologies/StudioProjects/Seku/build/google_maps_flutter/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/don-technologies/.gradle/caches/transforms-3/7d473300fc9cb6071be552257c23f44f/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]
